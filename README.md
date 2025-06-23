@@ -17,9 +17,4 @@ This project performs data analysis and visualization on the **World Bank Total 
 1. **Bar Chart** – Top 10 Most Populated Countries in 2023.
 2. **Histogram** – Distribution of populations across all countries in 2023.
 
-## 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
